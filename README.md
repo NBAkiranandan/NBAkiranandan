@@ -17,22 +17,22 @@
 
 ---
 ## 🚀 Featured Projects
-<br><br>
+<br>
 🧑‍💼 Student Placement Tracker
-<br><br>
+<br>
 🔹 Full-stack MERN application to manage student placements, job postings, and applications
-<br><br>
+<br>
 🔹 Includes authentication, dashboard, and real-time updates
-<br><br>
+<br>
 🔗 [View Project](https://github.com/NBAkiranandan/Student-Placement-Tracker.git)
 <br><br>
 
 🛒 AVVJ Cart
-<br><br>
+<br>
 🔹 E-commerce web application with product listing, cart, and order management
-<br><br>
+<br>
 🔹 Built using modern web technologies
-<br><br>
+<br>
 🔗 [View Project](https://github.com/NBAkiranandan/AVVJ_CART.git)
 [![](https://visitcount.itsvg.in/api?id=NBAkiranandan&icon=0&color=0)](https://visitcount.itsvg.in)
 
