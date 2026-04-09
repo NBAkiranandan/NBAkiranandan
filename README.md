@@ -17,11 +17,13 @@
 
 ---
 🚀 Featured Projects
+<br><br>
 🧑‍💼 Student Placement Tracker
-
+<br><br>
 🔹 Full-stack MERN application to manage student placements, job postings, and applications
 🔹 Includes authentication, dashboard, and real-time updates
 🔗 [View Project](https://github.com/NBAkiranandan/Student-Placement-Tracker.git)
+<br><br>
 
 🛒 AVVJ Cart
 
