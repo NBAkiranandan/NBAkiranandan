@@ -22,8 +22,8 @@
 <br>
 🔹 Full-stack MERN application to manage student placements, job postings, and applications
 <br>
-🔹 Includes authentication, dashboard, and real-time updates
-<br>
+🔹 Includes authentication, dashboard, and real-time updates <br>
+
 🔗 [View Project](https://github.com/NBAkiranandan/Student-Placement-Tracker.git)
 <br><br>
 
