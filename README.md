@@ -16,6 +16,18 @@
 ![](https://github-profile-trophy.vercel.app/?username=NBAkiranandan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+🚀 Featured Projects
+🧑‍💼 Student Placement Tracker
+
+🔹 Full-stack MERN application to manage student placements, job postings, and applications
+🔹 Includes authentication, dashboard, and real-time updates
+🔗 [View Project](https://github.com/NBAkiranandan/Student-Placement-Tracker.git)
+
+🛒 AVVJ Cart
+
+🔹 E-commerce web application with product listing, cart, and order management
+🔹 Built using modern web technologies
+🔗 [View Project](https://github.com/NBAkiranandan/AVVJ_CART.git)
 [![](https://visitcount.itsvg.in/api?id=NBAkiranandan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
